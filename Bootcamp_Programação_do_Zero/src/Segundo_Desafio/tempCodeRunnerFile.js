@@ -1,7 +1,7 @@
 let vitorias = 155;
 let derrotas = 15;
-//let saldo = calcularSaldoRankeadas(vitorias, derrotas);
-//let classificacao = calcularClassificacao(vitorias, derrotas);
+let saldo = calcularSaldoRankeadas(vitorias, derrotas);
+let classificacao = calcularClassificacao(vitorias, derrotas);
 
 function calcularSaldoRankeadas(vitorias, derrotas) {
   return vitorias - derrotas;
