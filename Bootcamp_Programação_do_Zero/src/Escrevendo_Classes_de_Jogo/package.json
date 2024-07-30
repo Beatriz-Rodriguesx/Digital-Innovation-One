@@ -1,0 +1,8 @@
+{
+  "name": "escrevendo_classes_de_jogo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
